@@ -1,0 +1,13 @@
+[{
+    "subject":"today",
+    "sentences": ["J'ai quoi à faire", "C'est quoi les tâches aujourd'hui"],
+    "responses": [""],
+    "value": 0,
+    "type":"question"
+},{
+    "subject":"addTask",
+    "sentences": ["Ajoute aux tâches (.*)"],
+    "responses": [""],
+    "value": 0,
+    "type":"action"
+}]

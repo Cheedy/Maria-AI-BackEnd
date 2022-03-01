@@ -1,0 +1,19 @@
+[{
+    "subject":"soundUp",
+    "sentences": ["Monte le son", "Monte le volume", "Augmente le son", "Monte le volume"],
+    "responses": ["Ok"],
+    "value": 0,
+    "type":"action"
+},{
+    "subject":"soundDown",
+    "sentences": ["Baisse le son", "Baisse le volume", "Diminue le son", "Diminue le volume"],
+    "responses": ["Ok"],
+    "value": 0,
+    "type":"action"
+},{
+    "subject":"soundMute",
+    "sentences": ["Coupe le son", "Coupe le volume", "Remet le son"],
+    "responses": ["Ok"],
+    "value": 0,
+    "type":"action"
+}]

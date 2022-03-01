@@ -1,0 +1,19 @@
+[{
+    "subject":"whatTime",
+    "sentences": ["Quelle heure est-il", "Il est quelle heure", "Donne moi l'heure"],
+    "responses": [""],
+    "value": 0,
+    "type":"question"
+},{
+    "subject":"whatTimeAlarm",
+    "sentences": ["Quelle est l'heure du réveil", "A quelle je me réveille"],
+    "responses": [""],
+    "value": 0,
+    "type":"question"
+},{
+    "subject":"configAlarm",
+    "sentences": ["Mets le réveil sur (.*)", "Règle le réveil à (.*)"],
+    "responses": ["Ok"],
+    "value": 0,
+    "type":"action"
+}]
